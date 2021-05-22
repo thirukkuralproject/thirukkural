@@ -12,7 +12,7 @@ Giri, Murali, Saravanakumar, Vijayanand, Sundarvelan, Raghupathy
 
 <h2>Notes:</h2>
 
-1. Copyright / licenses / permissions for using reference material in our work product
+1. Copyright / licenses / permissions for using reference material in our work product - <b>VOLUNTEER NEEDED</b>
 
    a. Project Madurai: This project obtained the permissions from the rights holders to prepare the etext.
       We can try contacting them for information. 
